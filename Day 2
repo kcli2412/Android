@@ -1,0 +1,30 @@
+一.課程講解:
+1.申請 google play 開發者帳號,費用:25元美金.
+2.App上架審查.
+3.開啟手機的開發人員選項.
+4.在電腦上安裝手機的驅動程式.
+5.物聯網=>WeMOS D1 Mini.
+6.電腦記憶體最好在4G以上,Android模凝器替代(Genymotion).
+7.Git/GitHub/Bitbucket的使用.
+
+二.開第一支Android App
+1.安裝 Android Studio
+2.開新專案
+  1.Application name:
+  2.Company domain:
+  3.Package name => Company domain + Application name.(APP唯一值)
+  4.API:建議選 API 25 之後.
+  5.File->New->New Project->Basic Activity
+  6.調整字型大小 File->Settings->Editor Colors & Fonts->Font->Scheme: 建立新的樣板名稱.
+  
+三.開第二支Android App
+1.開新專案
+  1.File->New->New Project->Empty Activity
+  2.add Button->onclick.
+  3.add TextView
+  4.coding錯誤檢查=>未打完/大小寫拼字錯誤.
+  5.APP當掉/閃退檢查=>Logcat.
+
+
+
+/*------2017/12/22------*/
